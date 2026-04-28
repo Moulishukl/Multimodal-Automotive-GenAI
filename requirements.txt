@@ -1,0 +1,6 @@
+replicate
+python-dotenv
+streamlit
+requests
+Pillow
+google-generativeai
